@@ -1,5 +1,5 @@
 import java.io.*;
-        public class UC1{
+        pubic class UC1{
     public static void main(String args[])
     {
         int IS_FULL_TIME=1;
